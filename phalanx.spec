@@ -13,7 +13,6 @@ Source1:	sbook.phalanx.bz2
 Source2:	learn.phalanx.bz2
 Source3:	phalanx.sh.bz2
 Patch0:		phalanx-22.build.patch.bz2
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Provides:	chessengine
 
 # TODO: either exclusivearch or regen opening books.
