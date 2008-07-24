@@ -1,5 +1,5 @@
 %define	version	22
-%define release	%mkrel 3
+%define release	%mkrel 5
 
 Summary:	A Chess Engine
 Name:		phalanx
