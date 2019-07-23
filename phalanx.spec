@@ -1,7 +1,7 @@
 Summary:	A Chess Engine
 Name:		phalanx
-Version:	23
-Release:	0.beta.1
+Version:	25
+Release:	1
 License:	GPLv2
 Group:		Games/Boards
 URL:		http://dusan.freeshell.org/phalanx/
