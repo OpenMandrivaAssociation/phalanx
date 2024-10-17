@@ -4,7 +4,7 @@ Version:	25
 Release:	1
 License:	GPLv2
 Group:		Games/Boards
-URL:		http://dusan.freeshell.org/phalanx/
+URL:		https://dusan.freeshell.org/phalanx/
 Source0:	http://downloads.sourceforge.net/project/phalanx/Version%20XXIII%20Beta/phalanx-XXIII-beta.tgz
 Source1:	sbook.phalanx.bz2
 Source2:	learn.phalanx.bz2
